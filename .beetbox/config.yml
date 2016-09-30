@@ -1,0 +1,3 @@
+---
+beet_domain: drupal-composer.local
+beet_root: "{{ beet_base }}/web"
